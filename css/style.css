@@ -1,0 +1,22 @@
+h1{
+    font-size: 30px;
+    font-family: monospace;
+}
+
+p{
+    color: #817d7d;
+}
+
+a{
+    color: rgb(12, 193, 238);
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif; 
+}
+
+.diferent{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
